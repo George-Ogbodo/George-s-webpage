@@ -1,0 +1,169 @@
+h1{
+	font-family: cursive;
+	font-size: 3em;
+}
+
+.j{
+	color: red:;
+}
+
+.e{
+	color: blue;
+}
+
+.n{
+	color: yellow;
+}
+
+.t{
+	color: green;
+}
+
+.l{
+	color: red;
+}
+
+.e{
+	color: blue;
+}
+.header{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+hr{
+	border: dotted #eaf6f6 7px ;
+	border-bottom: none;
+	width: 50px;
+}
+
+.bottom-container{
+	display: block;
+	background-color: margin-top: 30px;
+	margin-bottom:50px;
+	text-align: center; 
+	display: block;
+    background-color: #0d98ba; 
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+.footer-link{
+	padding-left: 30px;
+	padding-right: 30px;
+	font-family: cursive;
+	text-decoration: none;
+}
+.dd{
+	text-decoration: none;
+	color: white;
+	font-family: cursive;
+	display: block;
+	background-color: rgba(0, 0, 0, 0.338);
+	margin-bottom: 40px;
+	width: 300px;
+}
+.dd:hover{
+	background-color: green;
+	border-top-left-radius: 60px;
+	border-bottom-right-radius: 70px;
+	transition: 4s;
+	width: 300px;
+}
+
+}
+.foot{
+	font-size: 15px;
+}
+.ff{
+	margin-bottom: 30px;
+}
+footer{
+	background-color: #50c878;
+	height: 100px;
+}
+.ww{
+	text-align: center;
+	color: black;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	padding-top: 20px;
+}
+.ee{
+	border: dotted red 7px ;
+	border-bottom: none;
+	width: 50px;
+	margin-bottom: 50px;
+
+}
+.header{
+	background-color: #779ecb;
+	margin-top: 0px;
+}
+h3{
+	color: green;
+	text-align: center;
+}
+.rr{
+	font-size: 35px;
+}
+
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+body{
+	background-color: #779ecb;
+}
+
+.middle-container{
+	background-color: #ecd540;
+}
+.skills{
+	font-family: cursive;
+}
+.imgv{
+	width: 200px;
+	border-radius: 100px;
+	margin-top: 50px;
+}
+.bb{
+	font-family: cursive;
+	font-size: 20px;
+}
+.ll{
+	text-decoration: underline;
+}
+.profile{
+	margin: auto;
+	width: 50%;
+}
+.mm{
+	font-family: cursive;
+}
+body{
+	text-align: center;
+}
+.imgc{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+.imgk{
+	width: 25%;
+	float: right;
+	margin-left: : 30px;
+}
+.ff{
+	display: block;
+	background-color: white;
+	cursor: pointer;
+	font-family: cursive;
+}
+.ff:hover{
+	background-color: green;
+	transition: 5s;
+	font-family: cursive;
+}
